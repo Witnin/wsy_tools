@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">wsy_tools</string>
+    <string name="clickMe">点我</string>
+    <string name="clickMeMe">点我 我!</string>
+    <string name="nothing">null</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+</resources>
