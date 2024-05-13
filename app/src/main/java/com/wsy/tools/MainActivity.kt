@@ -12,6 +12,7 @@ import com.wsy.tools.databinding.ActivityMainBinding
 import com.wsy.viewspread.helper.BaseViewHelper
 
 
+
 class MainActivity : AppCompatActivity() {
 
     private lateinit var _binding: ActivityMainBinding
@@ -48,6 +49,9 @@ class MainActivity : AppCompatActivity() {
         intent.putExtra("id", view.id)
         BaseViewHelper.Builder(this@MainActivity, view)
             .startActivity(intent)
+
+
+
     }
 
 }
